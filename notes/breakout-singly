@@ -1,0 +1,34 @@
+# Hacking APIs
+
+- SelfEcho: platform for aggregating/correlating data
+- lots of mobile interest (naturally), but also spread/macro effects
+  - how do habits spread?
+  - what are differentials between regions?
+- correlation: tie together multiple APIs, mashups on steroids
+  - what are problems?
+    - who owns data? who owns analysis?
+    - time series correlation: how do you normalize that into a single interchange format?
+    - vendor/service lockdown: twitter, netflix, etc. limiting access to key parts of your data
+    - marketing vs. developers: former want CSV/Excel, latter wants XML/JSON
+      - but: both are APIs!
+      - the format of data is important, because different users want different formats
+- interesting services
+  - if this then that: perform triggered actions across services (ifttt.com)
+  - zapier: sync data between services (zapier.com)
+  - wahoo fitness: wireless smartphone <-> sensor connection
+  - Personal Data Ecosystem Consortium
+  - Open mHealth: pushing "mobile health" forwards...
+- what do we want?
+  - more raw data: why do we only get *some* of our data out of these services?
+  - coreutils: complete manipulation freedom via a set of simple utilities
+    - e.g. when i pass a certain threshold X, do Y
+  - data provenance: how did this data get here?
+    - where did it come from?
+    - what was done to it, and by who/what?
+- what properties are useful in a QS tool?
+  - standardized format? (but why not just use JSON? no standardized metadata...)
+    - OData: Microsoft's foray into normalizing this metadata
+      - looks like the bastard child of SQL and REST
+  - timestamp resolution
+  - a way to share analyses: API for sets of filters, transformations, etc.
+  - provenance
