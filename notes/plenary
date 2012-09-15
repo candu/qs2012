@@ -1,0 +1,81 @@
+# Plenary Session 
+
+## Robin Brook
+
+- 2006-2007: heavy stress + extreme caffeine intake
+- decided to reduce intake gradually
+  - confront problem with quitting: dependency
+  - first: feels more relaxed
+  - then: feels more lethargic
+- 2009: also kept productivity diary (caffeine reduction -> more productive?)
+  - corollary: we're really bad at analyzing our subjective experience
+  - data mitigates this effect
+    - seeing the data is *especially* helpful
+- also tried meditation practice, graphed amount of meditation time per day
+  - peaks: areas of high (intrinsic? extrinsic?) motivation
+  - troughs: depression -> saw that coffee is protective against depression
+- 2010-2011: restarted coffee
+  - less extreme: troughs/peaks are shallower (protection effect)
+  - but: doesn't help with acute life events (e.g. death of close relative)
+
+## Davis
+
+- positively impact mid-century world: 10B ppl
+  - top of scientific hierarchy is critically important
+- citizen science: are we ready to have 10B ppl do science with their smartphones?
+  - today's smartphones have 4-6 sensors; tomorrow's will have ~15
+  - city has ~1B sensors, will have ~10B by 2020
+    - data exhaust: can we collect/process all this meaningfully?
+- help others by helping ourselves
+  - we find personal insights, then wonder if they can generalize to wider audiences
+
+## Gary Wolff
+
+- QS is not an "industry", it is a culture/practice/community
+  - reminds me of parkour (which has as its indirect goal deeper engagement with urban environments)
+- interested in how habits break down
+  - easy to start, hard to not stop
+  - reverse graph: how many days were skipped? what's the longest skip run?
+    - relapse -> loss of confidence -> adjusts P(won't start tomorrow | didn't start today)
+  - seasonal pattern in missing days!
+    - important to know *how* to track our data
+    - seeing this data turned the feeling of bitter failure into a gradual move towards success
+- what is QS?
+  - Q: data, numbers, etc.
+  - S: not many people are working on this!
+    - what is computing for? used to be operational/scientific, now personal/social
+    - what do *users* want to do vs. what do *people*/*we* want to do?
+    - why are people who speak in the first person more open/collaborative?
+  - "there's plenty of room at the bottom": Feynman
+    - when you think on a different scale, challenges mutate or change entirely
+    - "big data": misnomer, because it suggests personal data is "little data"
+      - "ourness" vs. "bigness": *our* data has context
+      - standard answer to context-free: get more data -> get *all* the data!
+      - but what is *all*? maybe scale isn't the right spectrum
+
+## Nancy Dory: Technology and Mindfulness
+
+- QS is a very mindful community
+  - mindful? "regulating attention to moment, observing w/o judgment"
+  - "wasteland of empty online biometric profiles"
+  - gathering data allows you to interpret it in terms of your life
+- *tracking* habits themselves are influenced by mental/emotional state
+  - but! tracking data influences tracking itself
+  - also! tracking influences mental/emotional state
+    - awareness of patterns/outliers
+  - well-known effect: mindfulness reduces stress, etc.
+- technology: can draw us outside ourselves
+  - but not technology's fault: we should control it, rather than having it control us
+  - QS: a means for regaining that control!
+- Calming Tech Lab (Stanford): finding some of these points where we lose control
+  - "email apnea": when we check email, we sometimes reduce breathing (or stop entirely!)
+- string of lights that blinks when smiling
+  - gives her feedback, but also creates a unit of engagement for others
+- questions:
+  - is smiling always good? can one smile too much?
+    - not intimidating to have feedback: creating a reason to smile is important
+  - emphasis on modelling emotions, closing loop with technology so we can engineer emotions...how do you see what you're doing?
+    - looking for signal amplification on emotional state
+    - start to feel happy -> LEDs blink -> positive feedback loop!
+    - don't smile for too long -> LEDs blink -> negative feedback loop!
+    - "data environment": maybe knowledge of this state is important for others as well!
