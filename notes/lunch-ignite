@@ -1,0 +1,73 @@
+# Lunch Ignite Talks
+
+## Jason Langheer (Zipongo): Tailored meals to keep me healthy
+
+- tracking routines: being intentional
+- behavioral economics: how to tweak the value functions to promote "good" behavior?
+- QS data is an *input* that drives future behavior
+- j@zipongo.com
+
+## Charles Wang, MD: Self Tracking, Self Awareness, and Change
+
+- motivating example: psychiatrist must decide whether to release patient from hospital
+  - mostly subjective/intuitive now
+  - gathering data: what if that decision could be (partially) based on that?
+- another example: 40% of back surgeries do not solve pain
+  - can we make people mindful of their posture? enter Lumoback
+  - track slouch vs. non-slouch, provide instant feedback
+- charles@lumoback.com
+
+## Dave Marvit (Fujitsu): Use of a generalized data tracking platform in PTSD
+
+- generalized platform for tracking sensor data: Sprout
+- example: tracking biometrics alongside location
+  - power of correlating datastreams
+  - stress level during morning/evening commute
+- trained response: invoking meditation techniques subconsciously
+  - what you can measure, you can manage
+
+## Daniel Nofal (wikilife): An Open and Integrated Platform for Self-Tracking
+
+- our knowledge of health is still limited
+  - information is fragmented, biased, un-normalized
+  - QS can end this!
+- but! QS is focussed on individual
+  - answer: individual -> social (Quantified Mass)
+
+## Ron Gutman: How Data (almost) Saved My Life
+
+- self-experimentation is complicated!
+  - how do you tease out correlations, patterns, etc. ?
+  - how do you figure out what works for you?
+- start simple: Pareto 80/20-style
+  - unexpected results come from paying attention (mindfulness!)
+  - e.g. stress: water, simple dietary modifications
+
+## David Featherstonhaugh (IDEO): Our Quantified Run
+
+- Quantified Us (ref. Quantified Mass)
+  - how do you take existing groups and use tracking to amplify their connection/coherence?
+- experiment: Quantified Shirt
+  - 5K run; team wore a "survey on a shirt"
+  - each person records data on the shirt via Sharpie
+  - use the shirts as a tool for engagement
+    - but! only 52% responded
+- most people aren't like us!
+  - measurement is a lousy invitation to engagement!
+  - *why* are they measuring?
+- Hawthorne Effect
+  - changes during a study may be related only to the special social situation created during the study
+
+## Greg Schwartz: Burning BodyMedia - Calories burned in SF and at Burning Man
+
+- wore BodyMedia before and after Burning Man
+  - measures caloric output using galvanic skin response
+  - can't measure everything: e.g. fire poi practice
+  - weekends are more intense (avg. 3500/weekday, 3750/weekend)
+  - BM: 4500-5700/day
+- when do I burn the most?
+  - wore BodyMedia sensor once during fire poi: 13 cal/min
+- how do you define a "day"?
+  - BodyMedia counts midnight
+  - but! sleep is a more natural place to split days
+- greg@gregschwartz.net
