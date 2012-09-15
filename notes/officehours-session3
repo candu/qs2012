@@ -1,0 +1,39 @@
+# Office Hours - Session 3
+
+## ididstuff (http://ididstuff.com/)
+
+- platform for building your own lightweight behavioral economics around goals
+- centered around NOT quantifying things: just "i want to do more/less" of X
+
+## PiP biosensor (http://www.vyro-games.com/)
+
+- game for reducing stress: relax to go faster!
+- trains meditation/relaxation over time (trained response effect)
+- gameplay: powerful feedback mechanism
+
+## Discussion with David Horn
+
+- works in social media data analytics for Disney
+  - trying to gauge brand sentiment/virality across all of Disney's ~600 brands
+  - using Twitter, FB, etc. to determine sentiment, find influencers, tease out regional effects
+- similar to WalmartLabs problem: can we anticipate product demand?
+- aggregate social data: bypasses many of the privacy concerns
+  - e.g. Target pregnancy prediction
+  - concern over "OMG, they know what I want!": creepy
+- big companies aren't incentivized to open up their data completely
+  - b/c a substantial part of the value in that data is in the analytics
+  - if you had the analytics, you could replicate Facebook (or other services)
+- verticals in self-tracking
+  - UX: how do we make the process of data entry painless?
+  - gamification: how do we offset the pain of data entry by offering a reward?
+    - social as a subset: likes and comments *are* points
+  - hardware: how do we make data entry automatic?
+  - analysis: how do we make data entry ultimately meaningful to people?
+- vertical vs. horizontal approach
+  - vertical: pick one and own it
+    - e.g. Yahoo FireEagle: general platform for entering location data
+    - but they forgot the important question: *why* would I enter my location data?
+  - horizontal: do all of these, possibly in an imperfect manner
+    - seems more successful
+    - provides the means, process, and purpose for data entry *at once*
+    - without all three, data entry falls apart
