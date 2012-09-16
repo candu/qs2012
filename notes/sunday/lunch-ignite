@@ -1,1 +1,73 @@
 # Sunday Lunch - Ignite Talks
+
+## Hint Hobeika - Evolution of the Butterfleye Swimming Sensor
+
+- swimming: how to track?
+  - manual heart rate after each workout
+  - tech: Butterfleye (http://butterfleyeproject.com/), uses temporal artery (forehead)
+  - goggle-mounted
+- feedback informs mood, especially *reliability* of feedback
+  - we don't like unexpectedly random rewards!
+- body optimization: her heart rate while swimming is ~10 BPM lower than running at same intensity
+  - ref: optimization for cycling
+  - probably related to muscle consumption/processing of oxygen?
+
+## Jan Peter Larsen - Common Sense Activities App
+
+- sensor data in smartphone: great possibilities for tracking without additional equipment!
+  - ref: plenary...15 sensors within the decade
+- automated tracking for different types of activities
+  - vs. fitbit, which measures walking/running well...and everything else poorly
+- how to track in a low-power manner?
+  - bursts: high-frequency sampling in intervals
+    - b/c wireless radio must activate/cool-down around each data transfer
+  - process locally (on-device) where possible, prevent communication
+  - upload via wi-fi
+- jp@sense-os.nl
+- app store: activity sensor (Android version?)
+
+## Natalie McKeever - Internal Worlds: Experiencing the Biological Rhythm of Another Species
+
+- self: voluntary (body) vs. involuntary (mind) processes?
+  - is body/mind the right conceptual split here?
+
+## David Albert, MD - A Clinical-Quality, Low-Cost Mobile ECG
+
+- entrepreneurship is NOT mutually exclusive with academic research!
+- can we perform tests that usually take highly-specialized equipment with smartphones?
+
+## Yasmin Lucero - Ellie's Log
+
+- detailed records of infant behavior
+  - sleep
+    - 14.5 hours, drops off around 6 months of age
+    - daytime sleep drops off sharply, compensated by a rise in nighttime sleep
+      - is this a circadian rhythm learning process?
+    - highly consistent
+- remember: tracking can be applied to just about anything/anyone!
+  - including those who can't track themselves...
+
+## Anne Wright - Data Aggregation and Exploration with Fluxtream/BodyTrack
+
+- "human systems debugging": another linguistic take on self-quantification
+- exploration of data
+  - small multiples: show time-series in "channel view" (like audio processing tools!)
+  - map view: *where* did it happen?
+  - photos: subjective/visual information
+- having multiple datasets of different sorts helps diagnose problems
+  - quick testing of hypotheses
+
+## Paul Abramson - My Experiences Integrating Self-Tracking into Medical Care
+
+- what's wrong with my own health?
+  - s/own/patients'/
+- tried handing out self-tracking devices to patients
+  - problem: patients don't use them! (ref: habit design...more than just technology!)
+- quantification coaching
+  - like a personal trainer: convinces the patient to use self-tracking techniques!
+  - doesn't have the doctor-patient power imbalance
+  - reflect/focus on the data
+- how to fix health care?
+  - top-down: big data
+  - bottom-up: self-tracking...patient-centered health care
+- mydoctorsf.com
