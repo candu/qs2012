@@ -1,0 +1,35 @@
+# Breakout - Data Visualization
+
+- visual is our *dominant* modality: ~50% of brain capacity used for visual processing
+- ref. Tufte (Visual Display of Quantitative Information) as starting point
+- seven types of data: but what about spatial?
+- linear/sequential >> volumetric/angular
+- pre-attentive: from this slide, position/size are easier to distinguish than color
+  - what maximizes pre-attentive perception of color? contrast? particular hue?
+- lee@savvydata.com
+- animated charts? is this a new form of chartjunk, or a useful method for communicating data?
+  - animated bubble charts: migration over periods of time; can be effective
+  - e.g. Hans Rosling (but he's driving the animation via Trendalyzer!)
+  - should serve purpose
+  - effective for spatio-temporal data
+- visualization holy grail: when can I just toss my data in and get a meaningful visual story?
+  - can you comment on your process? how much is "rules of thumb", how much is customized?
+    - want to see rankings, changes: dynamic or comparative data
+    - we perceive by comparison! (ref: hot/cold touch experiments)
+  - communicate uncertainty around analysis
+  - cardinal rule of user experience: the user is right!
+    - your opinion is irrelevant; the only way to get their opinion is to study them
+- side note: data visualization people talk about "users" a lot
+  - does a focus on data remove one from more personal connections?
+  - or is this simply a different way of defining "personal"?
+- concrete/scientific -> abstract
+  - e.g. Nike Fuel: not calories but "points"
+  - what about personalization within data presentation? why does the designer usually decide everything?
+- expert domain vs. "crowdsourced" (buzzword bingo, woooo) design
+  - design of presentation
+  - design of hypotheses
+- oscilloscope: what would a device/tool for playing with your data in real-time look like?
+  - corporate dashboards do this, but they're usually clunky
+  - heatmap visualization of correlation coefficients
+    - how to solve O(N^2) problem once the number of datasets/timeseries explodes?
+- will it be normal 20-30 yrs from now for everyone to want to play with their data?

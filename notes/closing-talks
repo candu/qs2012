@@ -1,0 +1,46 @@
+# Saturday Closing Talks
+
+## Wearable Sensing
+
+- mc10: soft, stretchy wearable electronics
+- what sensors are you putting in your wearables?
+  - basically, anything you can do with semiconductors :p
+  - low-power sensors are better
+  - use sensors for particular types of insight
+    - as opposed to indiscriminately gathering data
+- what can we do with these sensors?
+  - now: first-order things (steps, acceleration, etc.)
+  - more precisely: what will we sense that we can't currently?
+    - athletics/fitness
+      - pedometry is a *really* coarse way of tracking output
+      - start to sense joint angles, hydration, etc.: prevent injury!
+    - better activity monitoring
+      - *activity* is more than just taking steps!
+- what is your role in making these wearables?
+  - are you trying to take control of the whole thing? or provide a platform?
+  - what makes a great wearable product?
+    - widespread use
+    - habitual use
+  - can I query my shirt? or am I limited to queries that you decide are important?
+    - the raw data is *a lot* for most people
+- vision: to make these platforms as open and accessible as possible
+  - currently sharp focus on hardware: make it reliable!
+    - how to deal with sweat? exposure to elements? cosmetics?
+- powering these devices...how?
+  - grab data from phone
+  - what about solar? piezoelectric?
+    - problem: these are not widespread; phone "power hygiene" is
+- what's the "size" limit on these devices? (complexity?)
+  - size matters, small is better
+  - prefer to find the "best body real-estate" for collecting data
+- places that are off-limits (cost, safety)
+  - inside the body: more permanent sensing
+  - vitals: "where the doctor puts their hands"
+    - physical exam is difficult to replicate outside the doctor's office!
+- what's the potential for real-time feedback?
+  - not necessarily via analytics engines, but via *actuators*
+  - usually, "wearables" == "wearable sensing"
+    - we forget about wearable *feedback*!
+  - e.g. shoes that vibrate for balance, belts that tell you where North is...
+  - main feedback mechanisms: sound, light, vibration
+    - give opportunity to build *trained responses*

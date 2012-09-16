@@ -4,3 +4,13 @@
   - solving the problem of motivation
   - adding more gyms doesn't make people more likely to exercise
     - how do we reach people who don't have intrinsic motivation?
+- sen.se
+  - has Android firmware SDK for uploading to sen.se
+  - can build dashboards
+  - idea: STEM education module targeted at high school juniors/seniors
+    - students pick N things to sense
+    - build wearable/carryable Arduino widgets
+    - tie those in with sen.se
+    - build dashboard
+    - grab data out via API, perform analytics
+- Intel Labs: data commons
