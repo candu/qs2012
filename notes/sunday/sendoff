@@ -1,1 +1,88 @@
-j.mp/qsattendees
+# Sendoff Session
+
+## Notes
+
+- list of all attendees: j.mp/qsattendees
+- for help starting a QS Show&Tell: ernesto@quantifiedself.com
+- social hashtag: #qs2012X
+  - use this to contact people socially from conference
+
+## Stan James - Project LifeSlice
+
+- http://wanderingstan.com/lifeslice
+- https://github.com/wanderingstan/Lifeslice
+- record webcam, screen, location every hour
+  - passive tracking!
+  - since we spend most of our waking time on the computer, can also infer sleep!
+  - productivity!
+- question of scale
+  - zoom in: see individual days
+  - zoom out: see hard disk failure, sleep *patterns*
+- tracking is a mirror looking back at yourself
+  - e.g. caffeine: it took seeing the data to appreciate the correlation and act on it!
+- subjective clustering effects: "spaced out zombie info junkie"
+- other webcam hacks
+  - detect smiles, save bookmark to delicio.us
+
+## Closing Talk
+
+- "nobody is tracking the growth of their toenails...yet."
+  - except someone in the audience was.
+  - we're expanding the horizon of what can be tracked constantly
+  - as we do that, we expand the sense of the "self"
+    - extended self
+- being surrounded by displays of raw data is NOT what we want
+  - that's what computers are good at! we're not so great at it
+  - sound, light, vibration/touch: pre-attentive features
+    - sense of North: Eric Boyd
+    - activate senses directly
+    - graphs, charts, etc. are only intermediaries in data transfer...
+  - *Qualified* Self
+- Quantified Self is happening in the context of a datasphere
+  - everything "gives off" data!
+  - everything *around you* "gives off" data!
+    - e.g. CCTV cameras *also* track you, your location
+- "your cell phone is a tracking device you can make calls with"
+- question: are we self-quantifiers, or the self-quantified?
+  - are we active or passive participants in this tracking?
+  - should we be active, or is it alright to be passive?
+- QS math: k*(N=1) >> N=k
+  - k independent experiments are superior to one k-person experiment
+  - drastic shift in scientific method: how do you normalize? control? sample randomly?
+- Quantified Us/Community
+  - mass: you can "crowdsource" tracking
+  - environment: you can track neighborhoods, cities, societies, nations...
+  - groups: people can track together, using tracking as one part of the community bond
+- again: quantified is *intermediate* step!
+  - the step where these new exo-senses are disseminated
+    - ref: "the future is here, it's just not evenly distributed"
+  - apply AI: the AI becomes an extra sense, something that guides us
+- Drucker: "that which is not measured cannot be managed."
+  - science: measuring *without fooling ourselves*
+  - better tools (telescopes, microscopes in the past; sensors in the present...what next?)
+    - new ways to measure, new ways to better ourselves
+    - might not always know the *how* of betterment: so just start tracking!
+  - s/oil/data/g, s/gold/data/g
+- 276 exabytes: the sum of all capacity across all storage media on earth
+  - DNA (or other nanomaterial) storage? how else to contain explosion?
+  - does bigger == more complicated? (problems of scale)
+  - "dark data" (ref. dark matter)
+    - most data is exhaust: unconnected, unrelated, unprocessed
+    - currently we can't connect all this data quickly enough!
+    - also: most of it may not actually have value...
+      - but who decides what does or does not have value?
+- but! data != gold
+  - data can be shared, gold can't: economics are different
+  - Quantified Self: two intangibles at the forefront of intangible-ness
+  - ownership doesn't work as a concept in the intangible economy!
+    - the more I give it away, the more valuable it becomes
+    - access >> ownership (but who provides access?)
+  - what about privacy? surveillance vs. personalization
+    - being *more* transparent enables personalized service/treatment!
+    - but! sees personalization as something that is *done to you*
+- data == letters
+  - as you structure letters, you gain rights and duties
+  - as you structure data, you gain rights and duties
+- how to prevent pathologies of the commons?
+  - communism: the state owns everything (and so it is NOT for humanity)
+  - tragedy of the commons: resource is ignored or abused
