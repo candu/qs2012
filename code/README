@@ -1,0 +1,10 @@
+This is some quick-and-dirty data processing for the kinetic sculpture at
+QS 2012.
+
+The data format is six-column tab-delimited normalized values. Each row should
+represent a single time point (e.g. day, hour, etc.) The file must use DOS
+line endings; to do this from Ubuntu, just
+
+sudo apt-get install dos2unix
+
+and then use the unix2dos utility on any file with UNIX line endings.
